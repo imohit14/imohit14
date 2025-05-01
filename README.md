@@ -1,6 +1,6 @@
 ## Hi there, I'm Mohit Kumar! 👋
 
-A passionate  DevOps, Cloud Engineer and .NET Developer, with certifications as an Azure DevOps Engineer and Azure Developer Associate. 
+A passionate  DevOps, AI Engineer, Cloud Engineer and Python Developer, with certifications as an Azure DevOps Engineer and Azure Developer Associate. 
 When I'm not coding or deploying applications, you can find me exploring new destinations around the globe.
 
 - 🔭 Currently working on **Azure and DevOps** projects
