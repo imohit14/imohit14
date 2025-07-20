@@ -3,7 +3,7 @@
 A passionate  DevOps, AI Engineer, Cloud Engineer and Python Developer, with certifications as an Azure DevOps Engineer and Azure Developer Associate. 
 When I'm not coding or deploying applications, you can find me exploring new destinations around the globe.
 
-- 🔭 Currently working on **Azure and DevOps** projects
+- 🔭 Currently working on **Azure,AWS and DevOps** projects
 - 🌱 My goal is to earn more global certifications and learn cutting-edge technologies
 - 🛠️ Tech stack: **Python, Azure, Jenkins, Docker, Terraform**
 - 📚 Avid reader of tech blogs and books on software engineering
