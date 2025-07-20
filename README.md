@@ -5,7 +5,7 @@ When I'm not coding or deploying applications, you can find me exploring new des
 
 - 🔭 Currently working on **Azure and DevOps** projects
 - 🌱 My goal is to earn more global certifications and learn cutting-edge technologies
-- 🛠️ Tech stack: **.NET, Azure, Jenkins, Docker, Terraform**
+- 🛠️ Tech stack: **Python, Azure, Jenkins, Docker, Terraform**
 - 📚 Avid reader of tech blogs and books on software engineering
 - 💬 I'm looking to collaborate on **CI/CD** and **Cloud** projects
 - 📫 You can reach me via [LinkedIn]
